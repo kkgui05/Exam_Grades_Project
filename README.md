@@ -4,6 +4,12 @@ Author: kkgui05
 
 This program is designed to perform various operations to process the grades using structures. It displays a menu to the user and based on the input, performs the corresponding operation.
 
+How to use:
+
+Clone the repository or download the code file,
+Compile the program using any C++ compiler,
+Run the program
+
 Features:
 The program displays a menu with the following options:
 
